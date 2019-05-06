@@ -1,0 +1,71 @@
+body{
+    font-family: 'Nunito';
+}
+
+h1,h2,h3,h4,h5,h6{
+    color: #555555;
+    font-weight: 700;
+}
+
+nav, .card{
+    /* background: #F8F9FA; */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    border:0;
+    /* border-radius: 6px; */
+}
+
+h5{
+    margin-bottom: 0;
+}
+
+p{
+    font-size: 12px;
+}
+
+form, p{
+    color: #555555;
+}
+
+.internship-box{
+    border-left: 4px solid blueviolet;
+}
+
+.source_card{
+    border-top: 4px solid blue;
+}
+
+.front_image{
+    border-bottom-right-radius: 4px;
+    border-top-right-radius: 4px;
+}
+
+a, a:hover{
+    text-decoration: none;
+    color: #65B3ED;
+}
+
+.gbutton {
+    padding: 8px 12px;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.1);
+    border-radius: 6px;
+    font-weight: 700;
+}
+
+.image_classic{
+    box-shadow: 0 5px 10px 0 rgba(0,0,0,0.2);
+    border-radius: 4px;
+}
+
+.p_classic{
+    color: #65B3ED;
+    font-size: 20px;
+    font-family: Pacifico;
+}
+
+.footer{
+    background: #65B3ED;
+    color: #ffffff;
+    text-align: center;
+    font-family: Pacifico;
+    padding: 8px;
+}
